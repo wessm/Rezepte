@@ -1,4 +1,4 @@
-# Semmelknoedel
+# Semmelknödel
 
 für ca. 12 Knödel
 
