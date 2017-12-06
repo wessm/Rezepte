@@ -1,4 +1,4 @@
-# Salzstagerl
+# Salzstangerl
 
 * 1/8 l Milch lauwarm
 * 1 Teelöffel Kristallzucker
