@@ -1,5 +1,5 @@
 800ml Schlagobers
-6 Eier
+6 Eier (getrennt)
 400g Schokolade
 
 Dotter schaumig rühren
