@@ -1,4 +1,4 @@
-# Mousse au Chocolate
+# Mousse au Chocolat
 
 - 800ml Schlagobers
 - 6 Eier (getrennt)
