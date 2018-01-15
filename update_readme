@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+cat > README.md << "EOL"
+# Rezepte
+
+traditionsreiche Rezepte der Familie Wess
+
+EOL
+
+
+#  loop through dir
+for d in *.md; do
+	name=${d%.md}
+	if [ "$name" != "README" ]
+	then
+		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}/)\n\n" >> README.md
+	fi
+done
