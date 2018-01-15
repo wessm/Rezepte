@@ -2,27 +2,27 @@
 
 traditionsreiche Rezepte der Familie Wess
 
-* [Bananenbrot](https://github.com/wessm/Rezepte/tree/master/Bananenbrot/)
+* [Bananenbrot](https://github.com/wessm/Rezepte/tree/master/Bananenbrot.md/)
 
-* [Bananenkuchen](https://github.com/wessm/Rezepte/tree/master/Bananenkuchen/)
+* [Bananenkuchen](https://github.com/wessm/Rezepte/tree/master/Bananenkuchen.md/)
 
-* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Bananen-Mango-Kuchen/)
+* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Bananen-Mango-Kuchen.md/)
 
-* [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Butterbrote/)
+* [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Butterbrote.md/)
 
-* [Eiaufstrich_Maria](https://github.com/wessm/Rezepte/tree/master/Eiaufstrich_Maria/)
+* [Eiaufstrich_Maria](https://github.com/wessm/Rezepte/tree/master/Eiaufstrich_Maria.md/)
 
-* [einfaches_Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot/)
+* [einfaches_Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot.md/)
 
-* [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Kaiserschmarren/)
+* [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Kaiserschmarren.md/)
 
-* [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Mayonnaise/)
+* [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Mayonnaise.md/)
 
-* [Mousse_au_Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat/)
+* [Mousse_au_Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat.md/)
 
-* [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten/)
+* [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten.md/)
 
-* [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl/)
+* [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl.md/)
 
-* [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel/)
+* [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel.md/)
 

@@ -14,6 +14,6 @@ for d in *.md; do
 	name=${d%.md}
 	if [ "$name" != "README" ]
 	then
-		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}/)\n\n" >> README.md
+		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> README.md
 	fi
 done
