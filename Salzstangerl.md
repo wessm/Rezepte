@@ -11,4 +11,4 @@ Dampfl machen, dann:
 * 1 Esslöffel Salz (gestrichen)
 * 1/2 l lauwarme Milch
 
-verrühren, 30-60 min aufgehen lassen, in 7 Teile teilen, backen bei ?
+verrühren, 30-60 min aufgehen lassen, in 7 Teile teilen, backen bei 180° Ober- und Unterhitze für ca. 20 Minuten
