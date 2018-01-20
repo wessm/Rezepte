@@ -17,3 +17,5 @@ for d in *.md; do
 		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> README.md
 	fi
 done
+
+echo "README updated!"
