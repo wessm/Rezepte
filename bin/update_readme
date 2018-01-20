@@ -18,4 +18,6 @@ for d in *.md; do
 	fi
 done
 
+echo "\n\nTo automatically rebuild the README file on each commit, run 'bin/activate_hook' from inside the repo once."
+
 echo "README updated!"
