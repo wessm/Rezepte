@@ -28,4 +28,4 @@ traditionsreiche Rezepte der Familie Wess
 
 
 
-To automatically rebuild the README file on each commit, run in/activate_hook\ from inside the repo once.
+To automatically rebuild the README file on each commit, run "bin/activate_hook" from inside the repo once.

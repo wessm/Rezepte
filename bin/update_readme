@@ -20,6 +20,6 @@ for d in ${dir}/*.md; do
 	fi
 done
 
-printf "\n\nTo automatically rebuild the README file on each commit, run \"bin/activate_hook\" from inside the repo once." >> ${dir}/README.md
+printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
 
 echo "README updated!"
