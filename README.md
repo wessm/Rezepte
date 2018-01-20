@@ -26,3 +26,4 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel.md/)
 
+\n\nTo automatically rebuild the README file on each commit, run 'bin/activate_hook' from inside the repo once.

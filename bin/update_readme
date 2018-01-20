@@ -1,7 +1,9 @@
 #!/bin/bash
 
 
-cat > README.md << "EOL"
+dir=`git rev-parse --show-toplevel`
+
+cat > ${dir}/README.md << "EOL"
 # Rezepte
 
 traditionsreiche Rezepte der Familie Wess
@@ -10,14 +12,14 @@ EOL
 
 
 #  loop through dir
-for d in *.md; do
-	name=${d%.md}
+for d in ${dir}/*.md; do
+	name=$(basename ${d%.md})
 	if [ "$name" != "README" ]
 	then
-		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> README.md
+		printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> ${dir}/README.md
 	fi
 done
 
-echo "\n\nTo automatically rebuild the README file on each commit, run 'bin/activate_hook' from inside the repo once."
+echo "\n\nTo automatically rebuild the README file on each commit, run 'bin/activate_hook' from inside the repo once." >> ${dir}/README.md
 
 echo "README updated!"
