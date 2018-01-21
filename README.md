@@ -22,6 +22,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten.md/)
 
+* [Pisco_Sour](https://github.com/wessm/Rezepte/tree/master/Pisco_Sour.md/)
+
 * [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl.md/)
 
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel.md/)
