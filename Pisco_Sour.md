@@ -1,6 +1,6 @@
 # Pisco Sour
 
-*1 oz &asymp; 3 ml*
+*1 oz &asymp; 3 cl*
 
 * 3 cl Zitronensaft
 * 9 cl Pisco
