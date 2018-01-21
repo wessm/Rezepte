@@ -1,7 +1,7 @@
 # Pisco Sour
 
 *1 oz &asymp; 3 cl*
-oder ca. 5 cl falls eine Chinese metric ounce (盎司) gemeint ist. Mehr Geschmack!
+oder ca. 5 cl falls eine Chinese metric ounce (盎司) gemeint ist. Mehr Geschmack! Nb.: eine Masseneinheit.
 
 * 3 cl Zitronensaft
 * 9 cl Pisco
