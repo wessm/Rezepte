@@ -5,9 +5,9 @@
 * 3 cl Zitronensaft
 * 9 cl Pisco
 * Jarabe de Goma (Zuckersirup?)
- - normal: 2 cl (?)
- - trocken (?): 1,5 cl
- - süß: 3 cl
+  - normal: 2 cl (?)
+  - trocken (?): 1,5 cl
+  - süß: 3 cl
 * 1 Eiweiß (??)
 * 3 Eiswürfel
 
