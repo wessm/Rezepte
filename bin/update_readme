@@ -19,7 +19,7 @@ EOL
 		name=$(basename ${d%.md})
 		if [ "$name" != "README" ]
 		then
-			printf "* [${name}](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> ${dir}/README.md
+			printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> ${dir}/README.md
 		fi
 	done
 
