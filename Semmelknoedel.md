@@ -16,4 +16,4 @@ für ca. 12 Knödel
 Zwiebel schneiden und anrösten, alles außer Mehl mischen, 15 min ziehen lassen, Mehl dazu, 15 min Kochen
 
 Man achte auf die korrekte Form der Knödel
-<img src="images/Semmelknoedel_shape.png">
+![knoedels](images/Semmelknoedel_shape.png)
