@@ -2,17 +2,15 @@
 
 traditionsreiche Rezepte der Familie Wess
 
+* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Bananen-Mango-Kuchen.md/)
+
 * [Bananenbrot](https://github.com/wessm/Rezepte/tree/master/Bananenbrot.md/)
 
 * [Bananenkuchen](https://github.com/wessm/Rezepte/tree/master/Bananenkuchen.md/)
 
-* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Bananen-Mango-Kuchen.md/)
-
 * [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Butterbrote.md/)
 
-* [Eiaufstrich_Maria](https://github.com/wessm/Rezepte/tree/master/Eiaufstrich_Maria.md/)
-
-* [einfaches_Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot.md/)
+* [Eiaufstrich Maria](https://github.com/wessm/Rezepte/tree/master/Eiaufstrich_Maria.md/)
 
 * [Germknoedel](https://github.com/wessm/Rezepte/tree/master/Germknoedel.md/)
 
@@ -20,15 +18,17 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Mayonnaise.md/)
 
-* [Mousse_au_Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat.md/)
+* [Mousse au Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat.md/)
 
 * [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten.md/)
 
-* [Pisco_Sour](https://github.com/wessm/Rezepte/tree/master/Pisco_Sour.md/)
+* [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Pisco_Sour.md/)
 
 * [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl.md/)
 
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel.md/)
+
+* [einfaches Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot.md/)
 
 
 
