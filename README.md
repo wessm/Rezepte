@@ -14,6 +14,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [einfaches_Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot.md/)
 
+* [Germknoedel](https://github.com/wessm/Rezepte/tree/master/Germknoedel.md/)
+
 * [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Kaiserschmarren.md/)
 
 * [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Mayonnaise.md/)
@@ -21,6 +23,8 @@ traditionsreiche Rezepte der Familie Wess
 * [Mousse_au_Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat.md/)
 
 * [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten.md/)
+
+* [Pisco_Sour](https://github.com/wessm/Rezepte/tree/master/Pisco_Sour.md/)
 
 * [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl.md/)
 
