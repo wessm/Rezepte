@@ -14,6 +14,6 @@ alle Zutaten 10min zu einem glatten Teig verkneten. Eine Stunde rasten lassen.
 Den Teig in 3-4 Teile aufteilen, kneten bis die Teiglinge schön spannung haben,
 mit Powidl füllen und nochmal 30min gehen lassen. Über Dampf 10min garen.
 
-|![](images/Germknoedel.JPG "fertiger Germknoedel")|
-|*Germknoedel Wien, 20.1.2018*|
+| ![](images/Germknoedel.JPG "fertiger Germknoedel") |
+| *Germknoedel Wien, 20.1.2018* |
 
