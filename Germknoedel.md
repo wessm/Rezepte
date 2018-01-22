@@ -13,3 +13,5 @@ Aus ein bisschen Milch, Mehl, Zucker und der Germ ein Dampfl machen,
 alle Zutaten 10min zu einem glatten Teig verkneten. Eine Stunde rasten lassen.
 Den Teig in 3-4 Teile aufteilen, kneten bis die Teiglinge schön spannung haben,
 mit Powidl füllen und nochmal 30min gehen lassen. Über Dampf 10min garen.
+
+![this is how it's done](images/Germknoedel.JPG "blabla")
