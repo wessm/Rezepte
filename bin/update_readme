@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+BRANCH=`git rev-parse --abbrev-ref HEAD`
+
 if [[ "$BRANCH" == "master" ]]; then
 	dir=`git rev-parse --show-toplevel`
 
@@ -22,5 +25,7 @@ EOL
 
 	printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
 
+
 	echo "README updated!"
 fi
+
