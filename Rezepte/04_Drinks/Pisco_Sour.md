@@ -12,6 +12,6 @@ oder ca. 5 cl falls eine Chinese metric ounce (盎司) gemeint ist. Mehr Geschma
 * 1 Eiweiß (??)
 * 3 Eiswürfel
 
-
-for reference: Originarezept aus dem Cafe Vinilo, Valparaiso
-<img src="images/Pisco_Sour.JPG">
+| ![](../../images/Pisco_Sour.JPG "leaked") |
+|:---:|
+| *for reference: Originarezept aus dem Cafe Vinilo, Valparaiso* |
