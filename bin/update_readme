@@ -3,10 +3,9 @@
 
 BRANCH=`git rev-parse --abbrev-ref HEAD`
 
-if [[ "$BRANCH" == "master" ]]; then
-	dir=`git rev-parse --show-toplevel`
+dir=`git rev-parse --show-toplevel`
 
-	cat > ${dir}/README.md << "EOL"
+cat > ${dir}/README.md << "EOL"
 # Rezepte
 
 traditionsreiche Rezepte der Familie Wess
@@ -14,24 +13,24 @@ traditionsreiche Rezepte der Familie Wess
 EOL
 
 
-	#  loop through dir
-	for d in ${dir}/Rezepte/*/; do
-		dirname=$(basename ${d%/})
-		#  remove numbers
-		name_print=${dirname:3:${#dirname}}
-		printf "\n\n## ${name_print//_/ }\n\n" >> ${dir}/README.md
+#  loop through dir
+for d in ${dir}/Rezepte/*/; do
+	dirname=$(basename ${d%/})
+	#  remove numbers
+	name_print=${dirname:3:${#dirname}}
+	printf "\n\n## ${name_print//_/ }\n\n" >> ${dir}/README.md
 
-		for d2 in ${d}/*.md; do
-			name=$(basename ${d2%.md})
-			printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/master/Rezepte/${dirname}/${name}.md/)\n\n" >> ${dir}/README.md
+	for d2 in ${d}/*.md; do
+		name=$(basename ${d2%.md})
+		printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/${BRANCH}/Rezepte/${dirname}/${name}.md/)\n\n" >> ${dir}/README.md
 
-		done
 	done
+done
 
-	printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
+printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
 
-	git add ${dir}/README.md
+git add ${dir}/README.md
 
-	echo "README updated!"
-fi
+echo "README updated!"
+
 
