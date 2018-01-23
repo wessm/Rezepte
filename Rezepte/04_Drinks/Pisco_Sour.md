@@ -14,4 +14,4 @@ oder ca. 5 cl falls eine Chinese metric ounce (盎司) gemeint ist. Mehr Geschma
 
 | ![](../../images/Pisco_Sour.JPG "leaked") |
 |:---:|
-| *for reference: Originarezept aus dem Cafe Vinilo, Valparaiso* |
+| *for reference: Originalrezept aus dem Cafe Vinilo, Valparaiso* |
