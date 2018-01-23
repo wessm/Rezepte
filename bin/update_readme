@@ -15,16 +15,21 @@ EOL
 
 
 	#  loop through dir
-	for d in ${dir}/*.md; do
-		name=$(basename ${d%.md})
-		if [ "$name" != "README" ]
-		then
-			printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/master/${name}.md/)\n\n" >> ${dir}/README.md
-		fi
+	for d in ${dir}/Rezepte/*/; do
+		dirname=$(basename ${d%/})
+		#  remove numbers
+		printf "\n\n## ${dirname:3:${#dirname}}\n\n" >> ${dir}/README.md
+
+		for d2 in ${d}/*.md; do
+			name=$(basename ${d2%.md})
+			printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/master/Rezepte/${dirname}/${name}.md/)\n\n" >> ${dir}/README.md
+
+		done
 	done
 
 	printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
 
+	git add ${dir}/README.md
 
 	echo "README updated!"
 fi

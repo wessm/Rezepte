@@ -2,33 +2,49 @@
 
 traditionsreiche Rezepte der Familie Wess
 
-* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Bananen-Mango-Kuchen.md/)
 
-* [Bananenbrot](https://github.com/wessm/Rezepte/tree/master/Bananenbrot.md/)
 
-* [Bananenkuchen](https://github.com/wessm/Rezepte/tree/master/Bananenkuchen.md/)
+## Hauptspeisen
 
-* [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Butterbrote.md/)
+* [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Semmelknoedel.md/)
 
-* [Eiaufstrich Maria](https://github.com/wessm/Rezepte/tree/master/Eiaufstrich_Maria.md/)
 
-* [Germknoedel](https://github.com/wessm/Rezepte/tree/master/Germknoedel.md/)
 
-* [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Kaiserschmarren.md/)
+## Nachspeisen
 
-* [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Mayonnaise.md/)
+* [Bananenbrot](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Bananenbrot.md/)
 
-* [Mousse au Chocolat](https://github.com/wessm/Rezepte/tree/master/Mousse_au_Chocolat.md/)
+* [Bananenkuchen](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Bananenkuchen.md/)
 
-* [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Philadelphiaschnitten.md/)
+* [Bananen-Mango-Kuchen](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Bananen-Mango-Kuchen.md/)
 
-* [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Pisco_Sour.md/)
+* [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Butterbrote.md/)
 
-* [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Salzstangerl.md/)
+* [Germknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Germknoedel.md/)
 
-* [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Semmelknoedel.md/)
+* [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Kaiserschmarren.md/)
 
-* [einfaches Brot](https://github.com/wessm/Rezepte/tree/master/einfaches_Brot.md/)
+* [Mousse au Chocolat](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Mousse_au_Chocolat.md/)
+
+* [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Philadelphiaschnitten.md/)
+
+
+
+## Sonstiges
+
+* [Eiaufstrich Maria](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Eiaufstrich_Maria.md/)
+
+* [einfaches Brot](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/einfaches_Brot.md/)
+
+* [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Mayonnaise.md/)
+
+* [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Salzstangerl.md/)
+
+
+
+## Drinks
+
+* [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Pisco_Sour.md/)
 
 
 
