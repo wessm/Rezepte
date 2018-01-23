@@ -18,7 +18,8 @@ EOL
 	for d in ${dir}/Rezepte/*/; do
 		dirname=$(basename ${d%/})
 		#  remove numbers
-		printf "\n\n## ${dirname:3:${#dirname}}\n\n" >> ${dir}/README.md
+		name_print=${dirname:3:${#dirname}}
+		printf "\n\n## ${name_print//_/ }\n\n" >> ${dir}/README.md
 
 		for d2 in ${d}/*.md; do
 			name=$(basename ${d2%.md})
