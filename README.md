@@ -46,6 +46,8 @@ traditionsreiche Rezepte der Familie Wess
 
 ## Drinks
 
+* [Bloody Mary](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Bloody_Mary.md/)
+
 * [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Pisco_Sour.md/)
 
 
