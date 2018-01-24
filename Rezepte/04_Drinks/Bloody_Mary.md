@@ -10,5 +10,5 @@
 
 
 Alle Zutaten gut vermischen, danach in ein Old-Fashioned-Glas gießen. Mit Eis,
-einer Zitronen- oder Limettenscheibe und einer Sellerie garnieren. Am besten
+einer Zitronen- oder Limettenscheibe und einer Selleriestange garnieren. Am besten
 bottomless genießen.
