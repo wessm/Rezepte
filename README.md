@@ -50,6 +50,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Bloody Mary](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Bloody_Mary.md/)
 
+* [Hollersirup](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Hollersirup.md/)
+
 * [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Pisco_Sour.md/)
 
 
