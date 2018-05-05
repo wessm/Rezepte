@@ -16,7 +16,7 @@ Zubereitung:
 Tipps:
 * Chili-Pulver durch etwas Tabasco ersetzen oder mit Cayenne Pfeffer experimentieren (Chili aus dem eigenen Garten funktioniert natürlich auch)
 * 1 EL Sauerrahm macht die Sache etwas cremiger
-* Für zimperliche Gäste, Petersilie statt Koriander verwenden
+* Für Experten, die wissen, dass Koriander widerlich ist, Petersilie statt Koriander verwenden
 
 
 

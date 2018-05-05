@@ -38,6 +38,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [einfaches Brot](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/einfaches_Brot.md/)
 
+* [guacamole](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/guacamole.md/)
+
 * [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Mayonnaise.md/)
 
 * [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Salzstangerl.md/)
