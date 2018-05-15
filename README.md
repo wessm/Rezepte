@@ -52,6 +52,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Hollersirup](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Hollersirup.md/)
 
+* [Hollersirup Toeglhofer](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Hollersirup_Toeglhofer.md/)
+
 * [Pisco Sour](https://github.com/wessm/Rezepte/tree/master/Rezepte/04_Drinks/Pisco_Sour.md/)
 
 
