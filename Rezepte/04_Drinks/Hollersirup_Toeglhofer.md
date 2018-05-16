@@ -3,7 +3,7 @@
 * 25 Dolden
 * 3 Zitronen
 * 2.5kg Zucker
-* 100g Ascorbinsäure
+* 50g Ascorbinsäure
 * ev. Einsiedehilfe
 * 2l Wasser
 
