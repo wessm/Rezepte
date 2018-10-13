@@ -28,6 +28,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Mousse au Chocolat](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Mousse_au_Chocolat.md/)
 
+* [Pancakes](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Pancakes.md/)
+
 * [Philadelphiaschnitten](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Philadelphiaschnitten.md/)
 
 
@@ -38,7 +40,7 @@ traditionsreiche Rezepte der Familie Wess
 
 * [einfaches Brot](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/einfaches_Brot.md/)
 
-* [guacamole](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/guacamole.md/)
+* [Guacamole](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Guacamole.md/)
 
 * [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Mayonnaise.md/)
 
