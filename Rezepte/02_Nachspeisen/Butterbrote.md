@@ -3,7 +3,7 @@
 ### Teig
 
 * 100 g Mehl glatt
-* 140 g Stauzucker
+* 140 g Staubzucker
 * 80 g Butter
 * 210 g Haselnüsse, gerieben
 * 150 g Schokoloade, gerieben
