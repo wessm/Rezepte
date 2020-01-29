@@ -24,6 +24,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Butterbrote](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Butterbrote.md/)
 
+* [Cheesecake](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Cheesecake.md/)
+
 * [Germknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Germknoedel.md/)
 
 * [Kaiserschmarren](https://github.com/wessm/Rezepte/tree/master/Rezepte/02_Nachspeisen/Kaiserschmarren.md/)
