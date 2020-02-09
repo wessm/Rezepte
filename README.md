@@ -6,6 +6,8 @@ traditionsreiche Rezepte der Familie Wess
 
 ## Hauptspeisen
 
+* [Dhal](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Dhal.md/)
+
 * [Nudeln im Ofen](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Nudeln_im_Ofen.md/)
 
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Semmelknoedel.md/)
