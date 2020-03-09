@@ -48,6 +48,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Guacamole](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Guacamole.md/)
 
+* [Kipferl](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Kipferl.md/)
+
 * [Mayonnaise](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Mayonnaise.md/)
 
 * [Salzstangerl](https://github.com/wessm/Rezepte/tree/master/Rezepte/03_Sonstiges/Salzstangerl.md/)
