@@ -12,7 +12,7 @@
 Salz in Milch auflösen, drei Esslöffel vom Mehl einrühren, dann die Hefe darin auflösen.
 Restliche Zutaten dazugeben und insgesamt 10min (in der Küchenmaschine) oder 15min (mit der Hand) kneten.
 
-## bei über Nach Gare
+## bei über Nacht Gare
 Teig für 12 Stunden kühl rasten lassen, aus dem Kühlschrank nehmen und in Teigstücke zu 80g zerteilen.
 Eine Stunde akklimatisieren lassen.
 
