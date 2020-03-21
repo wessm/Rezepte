@@ -23,7 +23,7 @@ Teig bei Raumtemperatur 30-45 Minuten rasten lassen, dann in Stücke zu je 80g z
 Teigstücke rund schleifen, 15 Minuten gehen lassen,
 Teigkugeln flach drücken, mit dem Rundholz ca 18x12cm länglich ausrollen,
 von oben herab beginnend mit der Hand einrollen, dabei leicht an den Enden ziehen, sodass eine schöne Wicklung entsteht,
-zu Kipferl formen und auf ein Backblech legen, darauf achten dass der Spitz ach unten liegt.
+zu Kipferl formen und auf ein Backblech legen, darauf achten dass der Spitz nach unten liegt.
 Kipferln leicht mit Wasser besprühen und noch einmal 25-35 Minten gehen lassen
 Backrohr auf 195°C vorheizen, die Kipferln ordentlich mit Wasser besprühen und mit Dampf ca 15min
 goldbraun backen.
