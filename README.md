@@ -12,6 +12,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Semmelknoedel.md/)
 
+* [Summerrolls](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Summerrolls.md/)
+
 * [Süßkartoffel-Erdnuss-Kokos-Curry](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Süßkartoffel-Erdnuss-Kokos-Curry.md/)
 
 
