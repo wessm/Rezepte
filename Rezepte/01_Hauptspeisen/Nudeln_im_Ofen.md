@@ -2,7 +2,7 @@
 ## Fettuccine al forno
 *ein Klassiker der emilianischen Küche*
 
-* 400 g Gettuccine (Tagliatelle)
+* 400 g Fettuccine (Tagliatelle)
 * 100 g Butter
 * 80 g frisch gerieber Parmesan
 * 100 g gekochter Schinken
