@@ -1,4 +1,5 @@
 # Pizza degli Angeli (lievitata in frigo)
+*&copy; Mara degli Angeli*
 
 ## Deutsche Übersetzung
 
