@@ -1,4 +1,5 @@
 # Pizza degli Angeli
+*&copy; Mara degli Angeli*
 
 ## Deutsche Übersetzung
 
