@@ -10,6 +10,8 @@ traditionsreiche Rezepte der Familie Wess
 
 * [Nudeln im Ofen](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Nudeln_im_Ofen.md/)
 
+* [Pizza](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Pizza.md/)
+
 * [Semmelknoedel](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Semmelknoedel.md/)
 
 * [Summerrolls](https://github.com/wessm/Rezepte/tree/master/Rezepte/01_Hauptspeisen/Summerrolls.md/)
