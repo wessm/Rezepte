@@ -7,7 +7,7 @@ traditionsreiche Rezepte der Familie Wess
 ## Hauptspeisen
 * [Dhal](./Rezepte/01_Hauptspeisen/Dhal.md/)
 * [Nudeln im Ofen](./Rezepte/01_Hauptspeisen/Nudeln_im_Ofen.md/)
-* [Pizza degli Angeli](./Rezepte/01_Hauptspeisen/Pizza_degli_Angeli.md/)
+* [Pizza Degli Angeli](./Rezepte/01_Hauptspeisen/Pizza_Degli_Angeli.md/)
 * [Pizza degli leggeri Angeli](./Rezepte/01_Hauptspeisen/Pizza_degli_leggeri_Angeli.md/)
 * [Pizza](./Rezepte/01_Hauptspeisen/Pizza.md/)
 * [Semmelknoedel](./Rezepte/01_Hauptspeisen/Semmelknoedel.md/)

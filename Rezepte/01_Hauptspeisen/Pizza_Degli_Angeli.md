@@ -1,9 +1,9 @@
-# Pizza degli Angeli
-*&copy; Mara degli Angeli*
+# Pizza Degli Angeli
+*&copy; Mara Degli Angeli*
 
 ## Deutsche Übersetzung
 
-* 700 gr. Mehl Typ 1
+* 700 gr. Mehl Typ 1 oder 0
 * 400 gr. lauwarmes Wasser (gerade lauwarm)
 * 2 Esslöffel Öl
 * 1 Würfel von 25 gr. Bierhefe (Germ)
