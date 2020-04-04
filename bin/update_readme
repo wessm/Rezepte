@@ -21,11 +21,11 @@ EOL
 		dirname=$(basename ${d%/})
 		#  remove numbers
 		name_print=${dirname:3:${#dirname}}
-		printf "\n\n## ${name_print//_/ }\n\n" >> ${dir}/README.md
+		printf "\n\n## ${name_print//_/ }\n" >> ${dir}/README.md
 
 		for d2 in ${d}/*.md; do
 			name=$(basename ${d2%.md})
-			printf "* [${name//_/ }](https://github.com/wessm/Rezepte/tree/${BRANCH}/Rezepte/${dirname}/${name}.md/)\n\n" >> ${dir}/README.md
+			printf "* [${name//_/ }](./Rezepte/${dirname}/${name}.md/)\n" >> ${dir}/README.md
 
 		done
 	done
