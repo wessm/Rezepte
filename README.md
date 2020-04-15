@@ -1,5 +1,7 @@
 # Rezepte
 
+https://wessm.github.io/Rezepte/
+
 traditionsreiche Rezepte der Familie Wess
 
 
@@ -42,6 +44,3 @@ traditionsreiche Rezepte der Familie Wess
 * [Hollersirup](./Rezepte/04_Drinks/Hollersirup.md/)
 * [Hollersirup Toeglhofer](./Rezepte/04_Drinks/Hollersirup_Toeglhofer.md/)
 * [Pisco Sour](./Rezepte/04_Drinks/Pisco_Sour.md/)
-
-
-To automatically rebuild the README file on each commit, run "bin/activate_hook" from inside the repo once.

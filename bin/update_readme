@@ -11,6 +11,8 @@ if [[ "$BRANCH" == "master" ]]; then
 	cat > ${dir}/README.md << "EOL"
 # Rezepte
 
+https://wessm.github.io/Rezepte/
+
 traditionsreiche Rezepte der Familie Wess
 
 EOL
@@ -30,7 +32,7 @@ EOL
 		done
 	done
 
-	printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
+		#printf "\n\nTo automatically rebuild the README file on each commit, run "\""bin/activate_hook"\"" from inside the repo once." >> ${dir}/README.md
 
 	git add ${dir}/README.md
 
