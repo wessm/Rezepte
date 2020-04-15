@@ -1,6 +1,6 @@
 # Rezepte
 
-https://wessm.github.io/Rezepte/
+[wessm.github.io/Rezepte](https://wessm.github.io/Rezepte/)
 
 traditionsreiche Rezepte der Familie Wess
 
