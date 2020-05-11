@@ -10,3 +10,5 @@
 Holler von den Stielen befreien, mit Zitronenschalen und klein geschnittene 
 Zitronen im weißen Kübel kühl stellen, nach 24 Stunden Zucker einrühren,
 und abfüllen
+
+Pro Tip: Holunderblüten möglichst nicht nach Regen und/oder Wind pflücken...je mehr Pollen, desto besser!
