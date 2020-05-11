@@ -12,3 +12,5 @@ mind 2 Tage stehen lassen, Zeug rausfischen, gründlich durch Geschirrtuch
 abseihen, Zucker, Ascorbinsäure & Einsiedehilfe dazu
 
 ev. statt Einsiedehilfe einmal aufkochen, aber laut Maria zach
+
+Pro Tip: Holunderblüten möglichst nicht nach Regen und/oder Wind pflücken...je mehr Pollen, desto besser!
