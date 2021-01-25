@@ -15,6 +15,11 @@ Teig zumindest 24 Stunden im Kühlschrank rasten lassen,
 Teig in Stücke zu je 240g zerteilen, rund schleifen (die Teiglinge müssen schön Spannung haben),
 6 Stunden bei Zimmertemperatur abgedeckt gehen lassen
 
+### Tricks vom Bäcker!? (needs some regression testing):
+* ein bisschen Zucker in den Teig
+* Teig vor dem Kühlen 1-2 Stunden gehen lassen
+* Beim Kühlen zuerst 1/2 Stunde Gefrierschrank, dann in den Kühlschrank
+
 ## Belegen:
 ### Margherita
 * Paradeiser aus der Dose (San Marzano, geschält)
