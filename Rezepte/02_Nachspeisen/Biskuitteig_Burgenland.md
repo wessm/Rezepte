@@ -6,7 +6,7 @@ Für ein Blech
 * 6 Dotter
 * 90 ml heißes Wasser (6 EL)
 
-Schaumig rühren (Küchenmaschine, 5 min)
+schaumig rühren (Küchenmaschine, 5 min)
 
 * 6 Eiklar
 
@@ -17,6 +17,5 @@ Schnee schlagen
 
 zu Dotter/Zucker einrühren (Küchenmaschine), dann Schnee unterheben
 
-bei 185 °C Ober+Unterhitze backen, bis die Oberfläche beginnt, dünkler zu
-werden (5-10 min)
+gleichmäßig auf einem Blech verteilen, bei 185 °C Ober+Unterhitze backen, bis die Oberfläche beginnt, dünkler zu werden (5-10 min)
 
