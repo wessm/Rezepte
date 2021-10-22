@@ -22,6 +22,7 @@ traditionsreiche Rezepte der Familie Wess
 * [Bananenkuchen](./Rezepte/02_Nachspeisen/Bananenkuchen.md/)
 * [Bananen-Mango-Kuchen](./Rezepte/02_Nachspeisen/Bananen-Mango-Kuchen.md/)
 * [Bananenschnitten](./Rezepte/02_Nachspeisen/Bananenschnitten.md/)
+* [Biskuitteig Burgenland](./Rezepte/02_Nachspeisen/Biskuitteig_Burgenland.md/)
 * [Butterbrote](./Rezepte/02_Nachspeisen/Butterbrote.md/)
 * [Cheesecake](./Rezepte/02_Nachspeisen/Cheesecake.md/)
 * [Germknoedel](./Rezepte/02_Nachspeisen/Germknoedel.md/)
